@@ -9,5 +9,6 @@ public class person {
     String address;
     Integer num;
     Integer age;
+    Integer height;
 
 }
