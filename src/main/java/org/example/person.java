@@ -6,6 +6,7 @@ public class person {
     String branch;
     String mother_name;
     String father_name;
+    String job_role
     String address;
     Integer num;
     Integer age;
