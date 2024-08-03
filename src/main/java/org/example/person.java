@@ -12,5 +12,6 @@ public class person {
     Integer age;
     Integer height;
     Integer salary;
+    Integer weight;
 
 }
