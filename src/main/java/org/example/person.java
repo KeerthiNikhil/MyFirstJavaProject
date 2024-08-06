@@ -8,10 +8,12 @@ public class person {
     String father_name;
     String job_role
     String address;
+    String company;
     Integer num;
     Integer age;
     Integer height;
     Integer salary;
     Integer weight;
+
 
 }
